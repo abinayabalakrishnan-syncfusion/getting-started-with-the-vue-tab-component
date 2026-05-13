@@ -1,6 +1,5 @@
 # Getting Started with the Vue Tab Component
 
-**Repository Description**  
 This repository contains a quick‑start Vue sample that demonstrates how to integrate and configure the Syncfusion Vue Tab component within a Vue application.
 
 The sample shows how to customize the tab header position, apply styles to the active header, render HTML content inside tab panels, and manage overflowing tab headers using scrolling and popup modes.
